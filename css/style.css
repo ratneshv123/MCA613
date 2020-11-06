@@ -1,0 +1,57 @@
+/*index  FILE STYLING*/
+.nav-back {
+    border:silver 1px double;
+    margin-top: 10px;
+}
+.nav-head {
+    margin: auto;
+    letter-spacing: 5px;
+}
+.box {
+    background-color: rgb(43, 236, 250);
+    padding: 100px;
+    text-align: center;
+    margin:20px;
+}
+.box:hover {
+    border-radius: 200px;
+}
+.blog-footer {
+    margin-top: 50px;
+    height: 50px;
+    text-align: center;
+}
+.box:hover {
+    border:grey 2px solid;
+}
+
+.info {
+    margin: 20px;
+}
+.content-head {
+    background-color: rgb(141, 190, 50);
+    text-align: center;
+    max-width: 700px;
+    margin:auto;
+}
+.content-head:hover{
+    background-color: chartreuse;
+    border: aqua 2px solid;
+}
+.html-content {
+    text-indent: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    border:aqua 2px solid;
+}
+.html-content:hover{
+    background-color: rgb(177, 177, 214);
+}
+.cs-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
